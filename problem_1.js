@@ -6,7 +6,7 @@ function sumMultiples(num) {
       sum += i
     }
   }
-  return sum 
+  return sum
 }
 
 console.log(sumMultiples(1000))

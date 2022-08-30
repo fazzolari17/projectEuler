@@ -13,7 +13,7 @@ const evenFibonacciNum = () => {
     }
   }
 
-  return sum 
+  return sum
 
 }
 
