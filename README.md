@@ -10,3 +10,5 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 4. -- problem_4.js -- 08/29/2022 -- Largest Palindrome Product
 5. --
 6. -- problem_6.js -- 09/02/2022 -- Sum Square Difference
+7. -- problem_7.js 
+8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
