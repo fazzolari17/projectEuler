@@ -37,5 +37,5 @@ const arrayOfNumbers = num => {
   return array
 }
 
-arrayOfNumbers(1000000)
+console.log(arrayOfNumbers(1000000))
 

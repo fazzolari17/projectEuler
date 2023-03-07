@@ -12,3 +12,8 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 6. -- problem_6.js -- 09/02/2022 -- Sum Square Difference
 7. -- problem_7.js 
 8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
+9.
+10.
+11.
+12.
+13. -- problem_13.js --03/07/2023 -- Large Sum
