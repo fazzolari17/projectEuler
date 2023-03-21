@@ -18,3 +18,6 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 11.
 12.
 13. -- problem_13.js -- 03/07/2023 -- Large Sum
+14.
+15.
+16. -- problem_16.js -- 03/23/2023 -- Power Digit Sum
