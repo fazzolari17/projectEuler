@@ -12,7 +12,8 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 6. -- problem_6.js -- 09/02/2022 -- Sum Square Difference
 7. -- problem_7.js 
 8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
-9.
+9. -- problem_9.js -- 03/20/2023 -- Special Pythagorean Triplet
+
 10.
 11.
 12.
