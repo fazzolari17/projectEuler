@@ -1,21 +1,19 @@
-const pythagoreanTriplet = (tripletSum) => {
+const pythagoreanTriplet = (range) => {
+  let a = 0
+  let b = 0
+  let c = 0
 
-  let total = 0
-  let count = 1
-  let a
-  let b
-  while(total !== tripletSum) {
-    console.log(count)
-    console.log('TOTAL:', total)
-    a = count * count
-    b = (count + 1) * (count + 1)
-    let c = a + b
-    total = c
-    count++
+  for (let i = 0; i < range; i++) {
+    for(let j = i+1; j < range; j++) {
+      a = i
+      b = j
+      c = Math.sqrt((a * a) + (b * b))
+      if((a + b + c) === 1000) {
+        if((a * b * c) === 0) continue
+
+        return a * b * c
+      }
+    }
   }
-
-  return a + b
 }
-
-console.log(pythagoreanTriplet(1000))
-console.log(Math.pow(3, 2))
+console.log(pythagoreanTriplet(376))
