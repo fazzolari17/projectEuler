@@ -13,11 +13,12 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 7. -- problem_7.js 
 8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
 9. -- problem_9.js -- 03/20/2023 -- Special Pythagorean Triplet
-
-10.
-11.
-12.
+10. 
+11. 
+12. 
 13. -- problem_13.js -- 03/07/2023 -- Large Sum
-14.
-15.
+14. 
+15. 
 16. -- problem_16.js -- 03/23/2023 -- Power Digit Sum
+17. 
+18. -- problem_18js -- 03/23/2023 -- Maximum Path Sum 1
