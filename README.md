@@ -22,3 +22,5 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 16. -- problem_16.js -- 03/23/2023 -- Power Digit Sum
 17. 
 18. -- problem_18js -- 03/23/2023 -- Maximum Path Sum 1
+19. 
+20. -- problem_20.js -- 03/23/2023 -- Factorial Digit Sum
