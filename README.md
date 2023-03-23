@@ -8,7 +8,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 2. -- problem_2.js -- 08/28/2022 -- Even Fibonacci Numbers 
 3. -- problem_3.js -- 08/29/2022 -- Largest Prime Factor
 4. -- problem_4.js -- 08/29/2022 -- Largest Palindrome Product
-5. --
+5. -- problem_5.js -- 03/23/2023 -- Smallest Multiple
 6. -- problem_6.js -- 09/02/2022 -- Sum Square Difference
 7. -- problem_7.js 
 8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
