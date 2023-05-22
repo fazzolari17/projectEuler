@@ -14,7 +14,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
 9. -- problem_9.js -- 03/20/2023 -- Special Pythagorean Triplet
 10. 
-11. 
+11. -- problem_11.js -- 05/22/2023 -- Largest Product in a Grid
 12. 
 13. -- problem_13.js -- 03/07/2023 -- Large Sum
 14. 
