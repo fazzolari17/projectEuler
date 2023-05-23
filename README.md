@@ -24,3 +24,5 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 18. -- problem_18js -- 03/23/2023 -- Maximum Path Sum 1
 19. 
 20. -- problem_20.js -- 03/23/2023 -- Factorial Digit Sum
+21.
+22. -- problem_22.js -- 05/23/2023 -- Names Scores
