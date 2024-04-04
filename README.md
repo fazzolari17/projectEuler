@@ -13,11 +13,11 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 7. -- problem_7.js 
 8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
 9. -- problem_9.js -- 03/20/2023 -- Special Pythagorean Triplet
-10. 
+10. -- problem_7.py -- 04/04/2024 -- 10001st Prime
 11. -- problem_11.js -- 05/22/2023 -- Largest Product in a Grid
 12. -- problem_12.js -- 05/22/2023 -- Highly Divisible Triangular Number
 13. -- problem_13.js -- 03/07/2023 -- Large Sum
-14. 
+14. -- problem_14.py -- 04/04/2024 -- Largest Collatz Sequence
 15. 
 16. -- problem_16.js -- 03/23/2023 -- Power Digit Sum
 17. 

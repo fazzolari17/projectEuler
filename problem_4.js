@@ -23,9 +23,9 @@ const multiplyNumbers = number => {
 const reverseSum = sum => {
   let result = sum.toString().split('').reverse().join('')
 
-  if (sum == result) {
+  if (sum === result) {
     return true
   }
 
 }
-console.log(multiplyNumbers(1000))
+console.log(multiplyNumbers(10000))
