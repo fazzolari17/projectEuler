@@ -26,3 +26,6 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 20. -- problem_20.js -- 03/23/2023 -- Factorial Digit Sum
 21.
 22. -- problem_22.js -- 05/23/2023 -- Names Scores
+23. 
+24. 
+25. -- problem_25.js -- 04/07/2024 -- 1000-digit Fibonacci Number
