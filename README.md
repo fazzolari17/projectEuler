@@ -18,7 +18,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 12. -- problem_12.js -- 05/22/2023 -- Highly Divisible Triangular Number
 13. -- problem_13.js -- 03/07/2023 -- Large Sum
 14. -- problem_14.py -- 04/04/2024 -- Largest Collatz Sequence
-15. 
+15. -- problem_15.py -- 04/15/2024 -- Lattice Paths
 16. -- problem_16.js -- 03/23/2023 -- Power Digit Sum
 17. 
 18. -- problem_18js -- 03/23/2023 -- Maximum Path Sum 1
