@@ -20,7 +20,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 14. -- problem_14.py -- 04/04/2024 -- Largest Collatz Sequence
 15. -- problem_15.py -- 04/15/2024 -- Lattice Paths
 16. -- problem_16.js -- 03/23/2023 -- Power Digit Sum
-17. 
+17. -- problem_17.py -- 04/15/2024 -- Number Letter Counts
 18. -- problem_18js -- 03/23/2023 -- Maximum Path Sum 1
 19. 
 20. -- problem_20.js -- 03/23/2023 -- Factorial Digit Sum
