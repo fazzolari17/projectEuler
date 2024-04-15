@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const names = fs.readFileSync(path.resolve(__dirname, 'p022_names.txt'), 'utf8')
+const names = fs.readFileSync(path.resolve(__dirname, 'problem22_names.txt'), 'utf8')
 
 const converFileToArray = (file) => {
 
