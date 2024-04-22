@@ -29,3 +29,13 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 23. 
 24. 
 25. -- problem_25.js -- 04/07/2024 -- 1000-digit Fibonacci Number
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35. -- problem_35.py -- 04/22/2024 -- Circulat Primes
