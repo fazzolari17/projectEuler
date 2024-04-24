@@ -39,7 +39,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 33.
 34.
 35. -- problem_35.py -- 04/22/2024 -- Circular Primes
-36.
+36. -- problem_36.py -- 04.24.2024 -- Bouble-base Palindromes
 37.
 38.
 39.
