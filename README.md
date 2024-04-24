@@ -38,4 +38,19 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 32.
 33.
 34.
-35. -- problem_35.py -- 04/22/2024 -- Circulat Primes
+35. -- problem_35.py -- 04/22/2024 -- Circular Primes
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50. -- problem_50.py -- 04/23/2024 -- Consecutive Primes
