@@ -54,3 +54,5 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 48.
 49.
 50. -- problem_50.py -- 04/23/2024 -- Consecutive Primes
+51.
+52. -- problem_52.py -- 04.25.2024 -- Permuted Multiples
