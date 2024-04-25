@@ -39,7 +39,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 33.
 34.
 35. -- problem_35.py -- 04/22/2024 -- Circular Primes
-36. -- problem_36.py -- 04.24.2024 -- Bouble-base Palindromes
+36. -- problem_36.py -- 04.24.2024 -- Double-base Palindromes
 37.
 38.
 39.
@@ -50,7 +50,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 44.
 45.
 46.
-47.
+47. -- problem_47.py -- 04/25/2024 -- Distinct Primes Factors
 48.
 49.
 50. -- problem_50.py -- 04/23/2024 -- Consecutive Primes
