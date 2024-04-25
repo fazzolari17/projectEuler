@@ -37,7 +37,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 31.
 32.
 33.
-34.
+34. -- problem_34.py -- 04/25/2024 -- Digit Factorials
 35. -- problem_35.py -- 04/22/2024 -- Circular Primes
 36. -- problem_36.py -- 04.24.2024 -- Double-base Palindromes
 37.
