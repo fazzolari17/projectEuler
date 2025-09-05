@@ -24,7 +24,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 18. -- problem_18js -- 03/23/2023 -- Maximum Path Sum 1
 19. -- problem_19.py -- 09/05/2025 -- Counting Sundays 
 20. -- problem_20.js -- 03/23/2023 -- Factorial Digit Sum
-21.
+21.  problem_21.py -- 09/05/2025 -- Amicable Numbers 
 22. -- problem_22.js -- 05/23/2023 -- Names Scores
 23. 
 24. 
