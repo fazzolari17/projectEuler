@@ -22,7 +22,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 16. -- problem_16.js -- 03/23/2023 -- Power Digit Sum
 17. -- problem_17.py -- 04/15/2024 -- Number Letter Counts
 18. -- problem_18js -- 03/23/2023 -- Maximum Path Sum 1
-19. 
+19. -- problem_19.py -- 09/05/2025 -- Counting Sundays 
 20. -- problem_20.js -- 03/23/2023 -- Factorial Digit Sum
 21.
 22. -- problem_22.js -- 05/23/2023 -- Names Scores
@@ -56,3 +56,6 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 50. -- problem_50.py -- 04/23/2024 -- Consecutive Primes
 51.
 52. -- problem_52.py -- 04.25.2024 -- Permuted Multiples
+52.
+53.
+54. 
