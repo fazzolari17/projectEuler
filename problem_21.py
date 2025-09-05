@@ -9,7 +9,6 @@ Evaluate the sum of all the amicable numbers under 10000.
 
 def amicable_numbers(n):
     solution = []
-    result = []
     for i in range(1, n):
         first_nums = []
         second_nums = []
