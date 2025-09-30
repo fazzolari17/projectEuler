@@ -33,7 +33,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 27.
 28.
 29.
-30.
+30. -- problem_30.py -- 09/30/2025 -- Digit Fifth Powers
 31.
 32.
 33.
