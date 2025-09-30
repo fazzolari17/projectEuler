@@ -52,7 +52,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 46.
 47. -- problem_47.py -- 04/25/2024 -- Distinct Primes Factors
 48.
-49.
+49. -- problem_49.py -- 09/30/2025 -- Prime Permutaions
 50. -- problem_50.py -- 04/23/2024 -- Consecutive Primes
 51.
 52. -- problem_52.py -- 04.25.2024 -- Permuted Multiples
