@@ -32,7 +32,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 26.
 27.
 28.
-29.
+29. -- problem_29.py -- 10/01/2025 -- Distict Powers
 30. -- problem_30.py -- 09/30/2025 -- Digit Fifth Powers
 31.
 32. -- problem_32.py -- 09/30/2025 -- Pandigital Products
