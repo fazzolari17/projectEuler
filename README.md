@@ -26,7 +26,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 20. -- problem_20.js -- 03/23/2023 -- Factorial Digit Sum
 21. -- problem_21.py -- 09/05/2025 -- Amicable Numbers 
 22. -- problem_22.js -- 05/23/2023 -- Names Scores
-23. -- problem_23.py -- 10/01/2025 -- Non Abundant Sums
+23. -- problem_23.py -- 09/06/2025 -- Non Abundant Sums
 24. 
 25. -- problem_25.js -- 04/07/2024 -- 1000-digit Fibonacci Number
 26.
