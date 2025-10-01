@@ -35,7 +35,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 29.
 30. -- problem_30.py -- 09/30/2025 -- Digit Fifth Powers
 31.
-32.
+32. -- problem_32.py -- 09/30/2025 -- Pandigital Products
 33.
 34. -- problem_34.py -- 04/25/2024 -- Digit Factorials
 35. -- problem_35.py -- 04/22/2024 -- Circular Primes
