@@ -30,7 +30,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 24. 
 25. -- problem_25.js -- 04/07/2024 -- 1000-digit Fibonacci Number
 26.
-27.
+27. -- problem_27.py -- 10/01/2025 -- Quadratic Primes
 28.
 29. -- problem_29.py -- 10/01/2025 -- Distict Powers
 30. -- problem_30.py -- 09/30/2025 -- Digit Fifth Powers
