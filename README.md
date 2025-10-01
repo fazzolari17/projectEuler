@@ -57,7 +57,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 51.  -- problem_51.py -- 10/01/2025 -- Prime Digit Replacements
 52.  -- problem_52.py -- 04.25.2024 -- Permuted Multiples
 52.
-53.
+53.  -- problem_53.py -- 10/01/2025 -- Combinatoric Selections
 54.
 55.
 56.
