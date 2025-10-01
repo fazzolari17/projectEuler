@@ -10,7 +10,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 4. -- problem_4.js -- 08/29/2022 -- Largest Palindrome Product
 5. -- problem_5.js -- 03/23/2023 -- Smallest Multiple !Updated Solution! 05/22/2023
 6. -- problem_6.js -- 09/02/2022 -- Sum Square Difference
-7. -- problem_7.js 
+7. -- problem_7.py -- 04/01/2024 -- 10 001st Prime
 8. -- problem_8.js -- 01/11/2023 -- Largest Product In A Series
 9. -- problem_9.js -- 03/20/2023 -- Special Pythagorean Triplet
 10. -- problem_7.py -- 04/04/2024 -- 10001st Prime
