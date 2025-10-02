@@ -58,7 +58,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 52.  -- problem_52.py -- 04.25.2024 -- Permuted Multiples
 52.
 53.  -- problem_53.py -- 10/01/2025 -- Combinatoric Selections
-54.
+54.  -- problem_54.py -- 10/01/2025 -- Poker Hands
 55.
 56.
 57.
