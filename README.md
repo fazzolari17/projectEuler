@@ -59,7 +59,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 52.
 53.  -- problem_53.py -- 10/01/2025 -- Combinatoric Selections
 54.  -- problem_54.py -- 10/01/2025 -- Poker Hands
-55.
+55.  -- problem_55.py -- 10/02/2025 -- Lychrel Numbers
 56.
 57.
 58.
