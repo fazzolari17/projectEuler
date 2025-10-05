@@ -34,7 +34,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 28.  -- problem_28.py -- 10/03/2025 -- Number Spiral Diagonals
 29.  -- problem_29.py -- 10/01/2025 -- Distict Powers
 30.  -- problem_30.py -- 09/30/2025 -- Digit Fifth Powers
-31.
+31.  -- problem_31.py -- 10/05/2025 -- Coin Sums 
 32.  -- problem_32.py -- 09/30/2025 -- Pandigital Products
 33.
 34.  -- problem_34.py -- 04/25/2024 -- Digit Factorials
