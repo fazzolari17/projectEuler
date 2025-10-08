@@ -41,7 +41,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 35.  -- problem_35.py -- 04/22/2024 -- Circular Primes
 36.  -- problem_36.py -- 04.24.2024 -- Double-base Palindromes
 37.  -- problem_37.py -- 09/30/2025 -- Truncatable Primes
-38.
+38.  -- problem_38.py -- 10/08/2025 -- Pandigital Numbers
 39.
 40.
 41.
