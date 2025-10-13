@@ -43,7 +43,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 37.  -- problem_37.py -- 09/30/2025 -- Truncatable Primes
 38.  -- problem_38.py -- 10/08/2025 -- Pandigital Numbers
 39.
-40.
+40.  -- problem_40.py -- 10/13/2025 -- Champernowne's Constant
 41.
 42.
 43.
