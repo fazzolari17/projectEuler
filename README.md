@@ -44,7 +44,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 38.  -- problem_38.py -- 10/08/2025 -- Pandigital Numbers
 39.
 40.  -- problem_40.py -- 10/13/2025 -- Champernowne's Constant
-41.
+41.  -- problem_41.py -- 10/16/2025 -- Pandigital Prime
 42.
 43.
 44.
