@@ -51,7 +51,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 45.
 46.
 47.  -- problem_47.py -- 04/25/2024 -- Distinct Primes Factors
-48.
+48.  -- problem_48.py -- 10/18/2025 -- Self Powers
 49.  -- problem_49.py -- 09/30/2025 -- Prime Permutaions
 50.  -- problem_50.py -- 04/23/2024 -- Consecutive Primes
 51.  -- problem_51.py -- 10/01/2025 -- Prime Digit Replacements
