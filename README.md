@@ -46,7 +46,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 40.  -- problem_40.py -- 10/13/2025 -- Champernowne's Constant
 41.  -- problem_41.py -- 10/16/2025 -- Pandigital Prime
 42.
-43.
+43.  -- problem_43.py -- 10/18/2025 -- Sub-string Divisibility
 44.
 45.
 46.
