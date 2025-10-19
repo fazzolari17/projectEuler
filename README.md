@@ -36,7 +36,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 30.  -- problem_30.py -- 09/30/2025 -- Digit Fifth Powers
 31.  -- problem_31.py -- 10/05/2025 -- Coin Sums 
 32.  -- problem_32.py -- 09/30/2025 -- Pandigital Products
-33.
+33.  -- problem_33.py -- 10/19/2025 -- Digit Cancelling Fractions
 34.  -- problem_34.py -- 04/25/2024 -- Digit Factorials
 35.  -- problem_35.py -- 04/22/2024 -- Circular Primes
 36.  -- problem_36.py -- 04.24.2024 -- Double-base Palindromes
