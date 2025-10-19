@@ -49,7 +49,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 43.  -- problem_43.py -- 10/18/2025 -- Sub-string Divisibility
 44.
 45.
-46.
+46.  -- problem_46.py -- 10/19/2025 -- Goldbach's Other Conjecture
 47.  -- problem_47.py -- 04/25/2024 -- Distinct Primes Factors
 48.  -- problem_48.py -- 10/18/2025 -- Self Powers
 49.  -- problem_49.py -- 09/30/2025 -- Prime Permutaions
