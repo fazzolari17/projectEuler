@@ -42,7 +42,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 36.  -- problem_36.py -- 04.24.2024 -- Double-base Palindromes
 37.  -- problem_37.py -- 09/30/2025 -- Truncatable Primes
 38.  -- problem_38.py -- 10/08/2025 -- Pandigital Numbers
-39.
+39.  -- problem_39.py -- 10/19/2025 -- Integer Right Triangles
 40.  -- problem_40.py -- 10/13/2025 -- Champernowne's Constant
 41.  -- problem_41.py -- 10/16/2025 -- Pandigital Prime
 42.
