@@ -47,8 +47,8 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 41.  -- problem_41.py -- 10/16/2025 -- Pandigital Prime
 42.  -- problem_42.py -- 10/19/2025 -- Coded Triangle Numbers
 43.  -- problem_43.py -- 10/18/2025 -- Sub-string Divisibility
-44.  -- probelm_44.py -- 10/18/2025 -- Pentagon Numbers
-45.
+44.  -- problem_44.py -- 10/19/2025 -- Pentagon Numbers
+45.  -- problem_45.py -- 10/19/2025 -- Triangular, Pentagonal, and Hexagonal
 46.  -- problem_46.py -- 10/19/2025 -- Goldbach's Other Conjecture
 47.  -- problem_47.py -- 04/25/2024 -- Distinct Primes Factors
 48.  -- problem_48.py -- 10/18/2025 -- Self Powers
