@@ -45,7 +45,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 39.  -- problem_39.py -- 10/19/2025 -- Integer Right Triangles
 40.  -- problem_40.py -- 10/13/2025 -- Champernowne's Constant
 41.  -- problem_41.py -- 10/16/2025 -- Pandigital Prime
-42.
+42.  -- problem_42.py -- 10/19/2025 -- Coded Triangle Numbers
 43.  -- problem_43.py -- 10/18/2025 -- Sub-string Divisibility
 44.
 45.
