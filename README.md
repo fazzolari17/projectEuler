@@ -62,7 +62,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 55.  -- problem_55.py -- 10/02/2025 -- Lychrel Numbers
 56.  -- problem_56.py -- 10/02/2025 -- Powerful Digit Sum
 57.
-58.
+58.  -- problem_58.py -- 10/27/2025 -- Spiral Primes
 59.
 60.
 61.
