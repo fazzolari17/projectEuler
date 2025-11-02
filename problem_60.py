@@ -21,6 +21,17 @@ def is_prime(n: int) -> bool:
 def concat_is_prime(a: int, b: int) -> bool:
     return is_prime(int(str(a) + str(b))) and is_prime(int(str(b) + str(a)))
 
+def run_checks(prime_pairs: list, n: int) -> bool or list:
+    if n in prime_pairs:
+        return False
+    else:
+        for number in prime_pairs:
+            if concat_is_prime(number, n) == False:
+                return False
+
+    prime_pairs.append(n)
+    return prime_pairs
+
 def add_number(prime_pairs: list, primes: list) -> set or bool: 
     for n in primes:
         if n in prime_pairs:
@@ -40,7 +51,6 @@ def prime_pair_sets():
             if new_list:
                 if len(new_list) == 5:
                     return new_list
-                    
                 x = new_list
             else:
                 break
