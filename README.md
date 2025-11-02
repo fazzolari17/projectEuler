@@ -64,7 +64,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 57.
 58.  -- problem_58.py -- 10/27/2025 -- Spiral Primes
 59.
-60.
+60.  -- problem_60.py -- 11/02/2025 -- Prime Pair Sets
 61.
 62.
 63.
