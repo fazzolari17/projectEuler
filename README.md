@@ -56,12 +56,11 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 50.  -- problem_50.py -- 04/23/2024 -- Consecutive Primes
 51.  -- problem_51.py -- 10/01/2025 -- Prime Digit Replacements
 52.  -- problem_52.py -- 04/25/2024 -- Permuted Multiples
-52.  -- problem_52.py -- 04/25/2024 -- 
 53.  -- problem_53.py -- 10/01/2025 -- Combinatoric Selections
 54.  -- problem_54.py -- 10/01/2025 -- Poker Hands
 55.  -- problem_55.py -- 10/02/2025 -- Lychrel Numbers
 56.  -- problem_56.py -- 10/02/2025 -- Powerful Digit Sum
-57.
+57.  -- problem_57.py -- 11/02/2025 -- Square Root Convergents
 58.  -- problem_58.py -- 10/27/2025 -- Spiral Primes
 59.
 60.  -- problem_60.py -- 11/02/2025 -- Prime Pair Sets
