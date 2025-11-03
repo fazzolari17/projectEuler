@@ -65,7 +65,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 59.
 60.  -- problem_60.py -- 11/02/2025 -- Prime Pair Sets
 61.
-62.
+62.  -- problem_62.py -- 11/02/2025 -- Cubic Permutations
 63.
 64.
 65.
