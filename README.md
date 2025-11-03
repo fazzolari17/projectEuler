@@ -66,7 +66,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 60.  -- problem_60.py -- 11/02/2025 -- Prime Pair Sets
 61.
 62.  -- problem_62.py -- 11/02/2025 -- Cubic Permutations
-63.
+63.  -- problem_63.py -- 11/03/2025 -- Powerful Digit Counts
 64.
 65.
 66.
