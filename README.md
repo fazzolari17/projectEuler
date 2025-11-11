@@ -100,7 +100,7 @@ ID | FILENAME | DATE SOLVED | DESCRIPTION / TITLE
 94.
 95.
 96.
-97.
+97.  -- problem_97.py -- 11/04/2025 -- Large Non-Mersenne Prime
 98.
-99.  -- problem_97.py -- 11/04/2025 -- Large Non-Mersenne Prime
+99.  -- problem_99.py -- 11/10/2025 -- Largest Exponential 
 100.
